@@ -38,8 +38,6 @@ highlight_name: false
 title: Marco Fumero
 email: ""
 ---
-I'm a PhD student at the GLADIA lab at Sapienza, University of Rome, CS department. My research focuses on the intesection between geometry and artificial intelligence. My interests include geometry processing, geometric deep learning, and representation learning.
-
-
+I'm a PhD student at the GLADIA lab at Sapienza, University of Rome, CS department. I work at the intesection between geometry and artificial intelligence. My reasearch interests include geometry processing, geometric deep learning, and representation learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
